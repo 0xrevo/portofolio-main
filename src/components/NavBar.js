@@ -1,14 +1,14 @@
 import React from 'react';
 import { useState, useEffect } from "react";
 import { Navbar, Nav, Container } from "react-bootstrap";
-import logo from '../assets/img/revo1.svg';
+import logo from '../assets/img/logo.svg';
 import navIcon1 from '../assets/img/twitter.svg';
 import navIcon2 from '../assets/img/github.svg';
 import navIcon3 from '../assets/img/discord.svg';
 import navIcon4 from '../assets/img/youtube.svg';
 import { HashLink } from 'react-router-hash-link';
 
-import headerImg from "../assets/img/header-img.svg";
+import headerImg from "../assets/img/revo-header.png";
 import {
   BrowserRouter as Router
 } from "react-router-dom";
