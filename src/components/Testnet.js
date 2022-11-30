@@ -57,80 +57,80 @@ export const Testnet = () => {
                         <br></br>
                         <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                         <div className="item">
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/stride" target="_blank">  <img src={meter3} alt="Image" /></a>
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/stride" target="_blank">  <h5>Stride</h5></a>
+                            <a href="https://github.com/0xrevo/testnet/tree/main/stride" target="_blank">  <img src={meter3} alt="Image" /></a>
+                            <a href="https://github.com/0xrevo/testnet/tree/main/stride" target="_blank">  <h5>Stride</h5></a>
                             </div>
                             <div className="item">
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/tidechain" target="_blank"> <img src={meter1} alt="Image" /></a>
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/tidechain" target="_blank">  <h5>Tidechain</h5></a>
+                            <a href="https://github.com/0xrevo/testnet/tree/main/tidechain" target="_blank"> <img src={meter1} alt="Image" /></a>
+                            <a href="https://github.com/0xrevo/testnet/tree/main/tidechain" target="_blank">  <h5>Tidechain</h5></a>
                             </div>
                             <div className="item">
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/icw" target="_blank"> <img src={meter20} alt="Image" /></a>
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/icw" target="_blank"> <h5>ICW Chain</h5></a>
+                            <a href="https://github.com/0xrevo/testnet/tree/main/icw" target="_blank"> <img src={meter20} alt="Image" /></a>
+                            <a href="https://github.com/0xrevo/testnet/tree/main/icw" target="_blank"> <h5>ICW Chain</h5></a>
                             </div>
                             <div className="item">
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/bundlr" target="_blank"> <img src={meter8} alt="Image" /></a>
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/bundlr" target="_blank"> <h5>Bundlr</h5></a>
+                            <a href="https://github.com/0xrevo/testnet/tree/main/bundlr" target="_blank"> <img src={meter8} alt="Image" /></a>
+                            <a href="https://github.com/0xrevo/testnet/tree/main/bundlr" target="_blank"> <h5>Bundlr</h5></a>
                             </div>
                             {/* <div className="item">
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/quicksilver" target="_blank"> <img src={meter7} alt="Image" /></a>
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/quicksilve" target="_blank"> <h5>Quicksilver</h5></a>
+                            <a href="https://github.com/0xrevo/testnet/tree/main/quicksilver" target="_blank"> <img src={meter7} alt="Image" /></a>
+                            <a href="https://github.com/0xrevo/testnet/tree/main/quicksilve" target="_blank"> <h5>Quicksilver</h5></a>
                             </div> */}
                             <div className="item">
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/subquery" target="_blank"><img src={meter6} alt="Image" /></a>
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/subquery" target="_blank"> <h5>Subquery</h5></a>
+                            <a href="https://github.com/0xrevo/testnet/tree/main/subquery" target="_blank"><img src={meter6} alt="Image" /></a>
+                            <a href="https://github.com/0xrevo/testnet/tree/main/subquery" target="_blank"> <h5>Subquery</h5></a>
                             </div>
                             <div className="item">
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/uptick" target="_blank"> <img src={meter5} alt="Image" /></a>
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/uptick" target="_blank"> <h5>Uptick</h5></a>
+                            <a href="https://github.com/0xrevo/testnet/tree/main/uptick" target="_blank"> <img src={meter5} alt="Image" /></a>
+                            <a href="https://github.com/0xrevo/testnet/tree/main/uptick" target="_blank"> <h5>Uptick</h5></a>
                             </div>
                             <div className="item">
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/teritori" target="_blank"> <img src={meter4} alt="Image" /></a>
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/teritori" target="_blank"> <h5>Teritori</h5></a>
+                            <a href="https://github.com/0xrevo/testnet/tree/main/teritori" target="_blank"> <img src={meter4} alt="Image" /></a>
+                            <a href="https://github.com/0xrevo/testnet/tree/main/teritori" target="_blank"> <h5>Teritori</h5></a>
                             </div>
                             <div className="item">
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/aptos" target="_blank"><img src={meter9} alt="Image" /></a>
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/aptos" target="_blank"> <h5>Aptos</h5></a>
+                            <a href="https://github.com/0xrevo/testnet/tree/main/aptos" target="_blank"><img src={meter9} alt="Image" /></a>
+                            <a href="https://github.com/0xrevo/testnet/tree/main/aptos" target="_blank"> <h5>Aptos</h5></a>
                             </div>
                             <div className="item">
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/defund" target="_blank"><img src={meter10} alt="Image" /></a>
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/defund" target="_blank"><h5>Defund</h5></a>
+                            <a href="https://github.com/0xrevo/testnet/tree/main/defund" target="_blank"><img src={meter10} alt="Image" /></a>
+                            <a href="https://github.com/0xrevo/testnet/tree/main/defund" target="_blank"><h5>Defund</h5></a>
                             </div>
                             <div className="item">
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/deweb" target="_blank"><img src={meter11} alt="Image" /></a>
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/deweb" target="_blank"> <h5>Deweb</h5></a>
+                            <a href="https://github.com/0xrevo/testnet/tree/main/deweb" target="_blank"><img src={meter11} alt="Image" /></a>
+                            <a href="https://github.com/0xrevo/testnet/tree/main/deweb" target="_blank"> <h5>Deweb</h5></a>
                             </div>
                             <div className="item">
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/celestia" target="_blank"><img src={meter12} alt="Image" /></a>
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/celestia" target="_blank"> <h5>Celestia</h5></a>
+                            <a href="https://github.com/0xrevo/testnet/tree/main/celestia" target="_blank"><img src={meter12} alt="Image" /></a>
+                            <a href="https://github.com/0xrevo/testnet/tree/main/celestia" target="_blank"> <h5>Celestia</h5></a>
                             </div>
                             <div className="item">
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/masa" target="_blank"><img src={meter13} alt="Image" /></a>
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/masa" target="_blank"> <h5>Masa</h5></a>
+                            <a href="https://github.com/0xrevo/testnet/tree/main/masa" target="_blank"><img src={meter13} alt="Image" /></a>
+                            <a href="https://github.com/0xrevo/testnet/tree/main/masa" target="_blank"> <h5>Masa</h5></a>
                             </div>
                             <div className="item">
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/paloma" target="_blank"> <img src={meter14} alt="Image" /></a>
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/paloma" target="_blank"> <h5>Paloma</h5></a>
+                            <a href="https://github.com/0xrevo/testnet/tree/main/paloma" target="_blank"> <img src={meter14} alt="Image" /></a>
+                            <a href="https://github.com/0xrevo/testnet/tree/main/paloma" target="_blank"> <h5>Paloma</h5></a>
                             </div>
                             <div className="item">
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/forta" target="_blank"> <img src={meter15} alt="Image" /></a>
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/forta" target="_blank"> <h5>Forta</h5></a>
+                            <a href="https://github.com/0xrevo/testnet/tree/main/forta" target="_blank"> <img src={meter15} alt="Image" /></a>
+                            <a href="https://github.com/0xrevo/testnet/tree/main/forta" target="_blank"> <h5>Forta</h5></a>
                             </div>
                             <div className="item">
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/peaq" target="_blank"><img src={meter17} alt="Image" /></a>
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/peaq" target="_blank"><h5>Peaq</h5></a>
+                            <a href="https://github.com/0xrevo/testnet/tree/main/peaq" target="_blank"><img src={meter17} alt="Image" /></a>
+                            <a href="https://github.com/0xrevo/testnet/tree/main/peaq" target="_blank"><h5>Peaq</h5></a>
                             </div>
                             <div className="item">
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/juno" target="_blank"><img src={meter18} alt="Image" /></a>
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/juno" target="_blank"><h5>Juno</h5></a>
+                            <a href="https://github.com/0xrevo/testnet/tree/main/juno" target="_blank"><img src={meter18} alt="Image" /></a>
+                            <a href="https://github.com/0xrevo/testnet/tree/main/juno" target="_blank"><h5>Juno</h5></a>
                             </div>
                             <div className="item">
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/rebus" target="_blank"><img src={meter19} alt="Image" /></a>
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/rebus" target="_blank"><h5>Rebus</h5></a>
+                            <a href="https://github.com/0xrevo/testnet/tree/main/rebus" target="_blank"><img src={meter19} alt="Image" /></a>
+                            <a href="https://github.com/0xrevo/testnet/tree/main/rebus" target="_blank"><h5>Rebus</h5></a>
                                 </div>
                                 <div className="item">
-                                <a href="https://github.com/nodesxploit/testnet/tree/main/sui" target="_blank"><img src={meter16} alt="Image" /></a>
-                                <a href="https://github.com/nodesxploit/testnet/tree/main/sui" target="_blank"><h5>Sui Network</h5></a>
+                                <a href="https://github.com/0xrevo/testnet/tree/main/sui" target="_blank"><img src={meter16} alt="Image" /></a>
+                                <a href="https://github.com/0xrevo/testnet/tree/main/sui" target="_blank"><h5>Sui Network</h5></a>
                             </div>
                         </Carousel>
                     </div>
