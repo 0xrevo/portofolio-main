@@ -63,7 +63,7 @@ export const Banner = () => {
                 <h1>{`Hi! I'm 0xRevo ⚡`} </h1>
                   <h4>I'm an independent node runner for blockchain projects.</h4>
                   <br></br>
-                  <i><q>Independent means that it is run by blockchain geeks for blockchain and crypto enthusiasts just like you ❤️. No VCs or institutional support. We indeed care about keeping the stake decentralized.</q></i>
+                  <i><q>Independent means that it is run by blockchain geeks for blockchain and crypto enthusiasts. No VCs or institutional support. We indeed care about keeping the stake decentralized.</q></i>
               </div>}
             </TrackVisibility>
           </Col>
